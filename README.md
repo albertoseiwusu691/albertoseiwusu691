@@ -4,13 +4,6 @@
 💬 Again, I work on Data Analytics projects using Power BI, SQL and GIS technologies
 👯 I’m looking to collaborate on any of the related projects
 
-🔭 I’m @dannymensah26
-👀 I’m interested in Deep Learning/Computer Vision and LLM
-🌱 I’m currently working on several MLOps Projects
-💬 Again, I work on Data Analytics projects using Power BI, SQL and GIS technologie
-👯 I’m looking to collaborate on any of the related projects
-
-
 
 <!---
 albertoseiwusu691/albertoseiwusu691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
