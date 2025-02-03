@@ -1,4 +1,4 @@
-🔭 I’m @dannymensah26
+🔭 I’m @albertoseiwusu691
 👀 I’m interested in Data Analytics and Data Engineering Projects
 🌱 I’m currently working on projects on data analytics, data engineering and ML
 💬 Again, I work on Data Analytics projects using Power BI, SQL and GIS technologies
